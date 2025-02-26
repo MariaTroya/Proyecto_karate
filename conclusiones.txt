@@ -1,0 +1,10 @@
+
+Conclusiones
+
+==> Karate es una herramienta para pruebas de rendimmiento y carga para aplicaciones web y APIs.
+==> La automatización de APIS permite abarcar mayor cantidad de casos y una mejor y optima cobertura de escenarios.
+==> En cada escenario permite analizar los resultados mediante reportes; lo cual facilita el entendimiento de los posibles errores presentados.
+==> Se puede ejecutar varios casos en paralelo con menor tiempo de ejecución.
+==> Optimización en la ejecución de los casos de prueba.
+
+
